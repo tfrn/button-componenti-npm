@@ -1,0 +1,24 @@
+{
+  "name": "button-componenti-npm",
+  "version": "1.0.0",
+  "description": "butonlara stil veren bir kütüphane",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfrn/button-componenti-npm.git"
+  },
+  "keywords": [
+    "button",
+    "style",
+    "string"
+  ],
+  "author": "tolga f.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tfrn/button-componenti-npm/issues"
+  },
+  "homepage": "https://github.com/tfrn/button-componenti-npm#readme"
+}

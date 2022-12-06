@@ -1,0 +1,71 @@
+
+.primarybutton{
+  background-color: #304ffe;
+  color: #fff;
+  width: 250px;
+  height: 60px;
+  border-radius: 3px;
+  border:none;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.primarybutton:hover{
+  box-shadow: 1px 1px gray;
+}
+.defaultbutton{
+  background-color: #fff;
+  color: #141414;
+  width: 250px;
+  height: 60px;
+  border-radius: 3px;
+  border:1px solid black;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.defaultbutton:hover{
+  box-shadow: 1px 1px gray;
+}
+.dashedbutton{
+  background-color: #fff;
+  color:#141414;
+  width: 250px;
+  height: 60px;
+  border-radius: 3px;
+  border:1px dashed black;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.dashedbutton:hover{
+  box-shadow: 1px 1px gray;
+}
+.textbutton{
+  background-color: #fff;
+  color: #141414;
+  width: 250px;
+  height: 60px;
+  border-radius: 3px;
+  border:none;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.textbutton:hover{
+  box-shadow: 1px 1px gray;
+}
+.linkbutton{
+  background-color: #fff;
+  color: #304ffe;
+  width: 250px;
+  height: 60px;
+  border-radius: 3px;
+  border:none;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.linkbutton:hover{
+  box-shadow: 1px 1px gray;
+}
